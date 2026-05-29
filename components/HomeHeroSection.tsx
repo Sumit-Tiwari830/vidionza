@@ -30,8 +30,8 @@ export default function HomeHeroSection() {
                             <Image
                                 src="/logo.png"
                                 alt="visionza"
-                                width={36}
-                                height={36}
+                                width={70}
+                                height={70}
                                 className="h-full w-full object-contain"
                                 priority
                             />
